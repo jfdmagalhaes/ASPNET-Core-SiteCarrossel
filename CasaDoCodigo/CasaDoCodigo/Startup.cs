@@ -34,17 +34,13 @@ namespace CasaDoCodigo
                 app.UseDeveloperExceptionPage();
             }
 
-            var livros = new List<Livr>();
-            livros.Add(new Livr("001", "Quem mexeu na query?", 12.22m));
-            livros.Add(new Livr("002", "Quem mexeu no meu código?", 15.22m));
-            livros.Add(new Livr("003", "Quem mexeu no meu repositório?", 20.22m));
+            Catalogo catalogo = new Catalogo();
+            Relatorio relatorio = new Relatorio(catalogo);
 
+           
             app.Run(async (context) =>
             {
-                foreach (var livro in livros)
-                {
-                    await context.Response.WriteAsync($"{livro.Codigo,-10}{livro.Nome, -40}{livro.Preco.ToString("C"),10}\r\n");
-                }
+                await relatorio.Imprimir(context);
                 
             });
         }
