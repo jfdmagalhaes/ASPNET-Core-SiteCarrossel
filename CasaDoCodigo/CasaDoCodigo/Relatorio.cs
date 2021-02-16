@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CasaDoCodigo
 {
-    public class Relatorio
+    public class Relatorio : IRelatorio
     {
         private readonly Catalogo catalogo;
 
