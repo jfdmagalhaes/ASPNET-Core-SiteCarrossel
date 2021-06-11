@@ -1,0 +1,11 @@
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.deps.json
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.runtimeconfig.json
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.runtimeconfig.dev.json
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.dll
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.pdb
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.csproj.CoreCompileInputs.cache
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.AssemblyInfoInputs.cache
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.AssemblyInfo.cs
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.dll
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.pdb
+C:\Estudo\ASPNET-Core-PT1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.Aula1.csprojAssemblyReference.cache
